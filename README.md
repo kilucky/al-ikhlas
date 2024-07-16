@@ -1,3 +1,3 @@
-# al-ikhlas.github.io
+# al-ikhlas
 first time
 how to deploy project in here
